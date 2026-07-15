@@ -23,8 +23,8 @@ CORS(app)
 @app.route("/",methods=["GET"])
 def inicio():
     return jsonify({
-        "Status":"API online e funcionando corretamente!", "Autor":"Yuri"
-        
+        "Status":"API online e funcionando corretamente!", 
+        "Autor":"Yuri"
         
     })
 
