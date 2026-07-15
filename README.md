@@ -8,8 +8,8 @@ Uma aplicação web desenvolvida para calcular preços de produtos de forma ráp
 
 ## 📸 Demonstração
 
-> Adicione aqui um GIF ou uma captura de tela do projeto.
-
+![alt text](image.png)
+git
 ```md
 ![Preview](./assets/preview.png)
 ```
